@@ -1,0 +1,1 @@
+Application that runs a MySQL DB, Java Springboot, and Angular.
